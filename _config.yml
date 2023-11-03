@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Jordan Sucher
+tagline:          
+description:      'Software Engineer & Product Manager. I ride bikes sometimes. Based in Brooklyn, NY.'
+url:              https://jordansucher.github.io
 baseurl:          "/"
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jordan Sucher'
+  url:            https://jordansucher.github.io
 
 paginate:         5
 plugins: [jekyll-paginate, jekyll-gist]
@@ -23,4 +23,4 @@ plugins: [jekyll-paginate, jekyll-gist]
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/JordanSucher
