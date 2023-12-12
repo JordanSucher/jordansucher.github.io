@@ -44,5 +44,5 @@ I have been deeply moved by watching and listening to this. It has reminded me o
 
 * Use the synth <a href="https://www.soundslikeagoodti.me/visualize?circles=2&mode=dorian&mode2=dorian&key=E2&key2=E2&instrument=clarinet&instrument2=cello&speed=422.53521126760563&volume2=8">here</a>
 * Built with js, ffmpeg, sharp, toneJS, docker, aws ECS, mapbox
-* <a href="https://github.com/JordanSucher/videos-from-strava">Github repo</a>
+* <a href="https://github.com/JordanSucher/sounds-like-a-good-time">Github repo</a>
 
